@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+PyPDF2
+python-dotenv
+flask-limiter
